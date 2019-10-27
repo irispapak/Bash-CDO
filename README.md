@@ -1,5 +1,5 @@
 ------------------
-M.Sc Thesis Codes:
+Bash-CDO Codes:
 ------------------
 
 This repository contains bash scripts with CDO commands.
